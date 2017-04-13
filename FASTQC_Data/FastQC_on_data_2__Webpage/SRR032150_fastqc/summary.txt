@@ -1,0 +1,12 @@
+PASS	Basic Statistics	SRR032150.fastq
+FAIL	Per base sequence quality	SRR032150.fastq
+FAIL	Per tile sequence quality	SRR032150.fastq
+WARN	Per sequence quality scores	SRR032150.fastq
+FAIL	Per base sequence content	SRR032150.fastq
+PASS	Per sequence GC content	SRR032150.fastq
+PASS	Per base N content	SRR032150.fastq
+PASS	Sequence Length Distribution	SRR032150.fastq
+PASS	Sequence Duplication Levels	SRR032150.fastq
+PASS	Overrepresented sequences	SRR032150.fastq
+PASS	Adapter Content	SRR032150.fastq
+FAIL	Kmer Content	SRR032150.fastq
