@@ -1,0 +1,13 @@
+#Commands to convert alignments to mapview format
+maq mapview alignment_humanf1r1.map > alignment_humanf1r1.txt
+maq mapview alignment_humanf1r2.map > alignment_humanf1r2.txt
+maq mapview alignment_humanf2r1.map > alignment_humanf2r1.txt
+maq mapview alignment_humanf2r2.map > alignment_humanf2r2.txt
+maq mapview alignment_humanf3r1.map > alignment_humanf3r1.txt
+maq mapview alignment_humanf3r2.map > alignment_humanf3r2.txt
+maq mapview alignment_humanm1r1.map > alignment_humanm1r1.txt
+maq mapview alignment_humanm1r2.map > alignment_humanm1r2.txt
+maq mapview alignment_humanm2r1.map > alignment_humanm2r1.txt
+maq mapview alignment_humanm2r2.map > alignment_humanm2r2.txt
+maq mapview alignment_humanm3r1.map > alignment_humanm3r1.txt
+maq mapview alignment_humanm3r2.map > alignment_humanm3r2.txt

@@ -1,0 +1,14 @@
+#Commands to convert alignments to mapview format
+maq mapview alignment_rhesusf1r1.map > alignment_rhesusf1r1.txt
+maq mapview alignment_rhesusf1r2.map > alignment_rhesusf1r2.txt
+maq mapview alignment_rhesusf2r1.map > alignment_rhesusf2r1.txt
+maq mapview alignment_rhesusf2r2.map > alignment_rhesusf2r2.txt
+maq mapview alignment_rhesusf3r1.map > alignment_rhesusf3r1.txt
+maq mapview alignment_rhesusf3r2.map > alignment_rhesusf3r2.txt
+maq mapview alignment_rhesusm1r1.map > alignment_rhesusm1r1.txt
+maq mapview alignment_rhesusm1r2.map > alignment_rhesusm1r2.txt
+maq mapview alignment_rhesusm2r1.map > alignment_rhesusm2r1.txt
+maq mapview alignment_rhesusm2r2.map > alignment_rhesusm2r2.txt
+maq mapview alignment_rhesusm3r1.map > alignment_rhesusm3r1.txt
+maq mapview alignment_rhesusm3r2.map > alignment_rhesusm3r2.txt
+~                                                             

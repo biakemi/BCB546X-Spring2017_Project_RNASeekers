@@ -70,3 +70,12 @@ I used condo to run this part of the analysis, given that condo already had the 
 `$ maq match output_file.map reference.bfa input_file.bfq`  
 
 -Did separate runs for human, chimp and rhesus. Scripts are on github repository, under names **aligment_chimp.sbatch**, **alignment_human.sbatch** and **alignment_rhesus.sbatch**  
+
+#### Converting to mapview format  
+-Following the paper steps, we converted the alignments format to the mapview format using the `mapview` command  
+
+`$ maq mapview output_file.map > output_file.txt`  
+
+-The commands were run directly on the command line, but all the commands are on scripts on the github repository, under the names **mapview_human**, **mapview_chimp**, **mapview_rhesus**  
+
+##Counting the reads

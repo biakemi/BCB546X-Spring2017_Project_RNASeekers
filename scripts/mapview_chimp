@@ -1,0 +1,13 @@
+#Commands to convert alignments to mapview format
+maq mapview alignment_chimpf1r1.map > alignment_chimpf1r1.txt
+maq mapview alignment_chimpf1r2.map > alignment_chimpf1r2.txt
+maq mapview alignment_chimpf2r1.map > alignment_chimpf2r1.txt
+maq mapview alignment_chimpf2r2.map > alignment_chimpf2r2.txt
+maq mapview alignment_chimpf3r1.map > alignment_chimpf3r1.txt
+maq mapview alignment_chimpf3r2.map > alignment_chimpf3r2.txt
+maq mapview alignment_chimpm1r1.map > alignment_chimpm1r1.txt
+maq mapview alignment_chimpm1r2.map > alignment_chimpm1r2.txt
+maq mapview alignment_chimpm2r1.map > alignment_chimpm2r1.txt
+maq mapview alignment_chimpm2r2.map > alignment_chimpm2r2.txt
+maq mapview alignment_chimpm3r1.map > alignment_chimpm3r1.txt
+maq mapview alignment_chimpm3r2.map > alignment_chimpm3r2.txt
