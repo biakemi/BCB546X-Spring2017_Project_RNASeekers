@@ -86,3 +86,10 @@ I used condo to run this part of the analysis, given that condo already had the 
 
 
 ## Differential expression analysis (EC, XF)
+
+### (EC)
+
+### Redo analysis in Figure 2 of the paper (XF)
+To check if our differential gene expression analysis can reproduce the results of conserved sexually dimorphic gene expression patterns as described in the Figure 2 of the paper, normalized read counts of four genes (RBM4, PAQR3, PGM2, and KDM5C) were analyzed and visualized using R. The R script `GeneExpressionPattern_Fig2.R` was included in the **script** folder.
+
+Briefly, reads counts of the four genes were extracted from the input file `primate_norm_read_count.csv`. Data were cleaned with `dplyr` and visualized with `ggplot2`. The output figures were included in the **figures** folder.
