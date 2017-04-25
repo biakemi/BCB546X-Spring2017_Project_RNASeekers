@@ -88,6 +88,7 @@ I used condo to run this part of the analysis, given that condo already had the 
 ## Differential expression analysis (EC, XF)
 
 ### (EC)
+The analysis of differentially expressed genes btween species presented in table 1 of the paper was reproduced using the edgeR package in R. The read count data of 20,689 orthologous genes published with the paper was used as the input data. This file can be found at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17274. All files needed for the differential expression analysis are found uder scripts/DE_analysis. The analysis outout is under figures/table_1_DE_genes.  
 
 ### Redo analysis in Figure 2 of the paper (XF)
 To check if our differential gene expression analysis can reproduce the results of conserved sexually dimorphic gene expression patterns as described in the Figure 2 of the paper, normalized read counts of four genes (RBM4, PAQR3, PGM2, and KDM5C) were analyzed and visualized using R. The R script `GeneExpressionPattern_Fig2.R` was included in the **script** folder.
