@@ -1,0 +1,10 @@
+species_comparison,sex,DE_genes
+Human-chimpanzee,All,201
+Human-rhesus,All,354
+Chimpanzee-rhesus,All,162
+Human-chimpanzee,Males_only,203
+Human-rhesus,Males_only,460
+Chimpanzee-rhesus,Males_only,539
+Human-chimpanzee,Females_only,119
+Human-rhesus,Females_only,214
+Chimpanzee-rhesus,Females_only,290
