@@ -1,4 +1,4 @@
-##Bia's notes - final project
+##Workflow documentation - final project
 
 Using Galaxy to do RNA-Seq Assemble  
 Data from the study is at [this NCBI GEO page](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17274)  
