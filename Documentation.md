@@ -40,9 +40,13 @@ The study uses the [MAQ](http://maq.sourceforge.net/maq-man.shtml) software to m
 ### Download the reference genomes (JL)
 Download the genomes, following the information available from the paper and [Supplementary Methods](http://genome.cshlp.org/content/20/2/180/suppl/DC1). 
 The human primary assembly is available from ENSEMBL's FTP site ftp://ftp.ensembl.org/pub/release-88/fasta/homo_sapiens/dna/
+
 The chimpanzee and rhesus monkey primary assembly is available at the USCS's landing page: http://hgdownload.soe.ucsc.edu/downloads.html 
+
 The chimpanzee primary assembly is from: http://hgdownload.soe.ucsc.edu/goldenPath/panTro4/bigZips/ 
+
 The rhesus monkey is from: http://hgdownload.soe.ucsc.edu/downloads.html#rhesus
+
 The human CDS is from http://useast.ensembl.org/info/data/ftp/index.html
 
 ####Convert fastq to bfq (BM)
